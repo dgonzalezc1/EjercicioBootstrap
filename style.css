@@ -1,0 +1,39 @@
+.banner{
+    background-color: #58493E;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    height: 5rem;
+}
+.leftM{
+    background-color: orange;
+}
+.topM{
+    background-color: #BC9385;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    margin: 0;
+    font-weight: bold;
+}
+.cont{
+    align-items: center;
+    height: 7rem;
+    background-color: whitesmoke;
+    justify-content: center;
+}
+.footer{
+    background-color: #58493E;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.rosa{
+    background-color: #AC6672;
+    justify-content: center;
+}
+.azul{
+    background-color: #00A1B4;
+    justify-content: center;
+}
